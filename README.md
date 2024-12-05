@@ -1,3 +1,3 @@
 # learn
 
-[wiki](https://github.com/akhilkailas017/learn/wiki)
+[Pages](https://github.com/akhilkailas017/learn/wiki)
